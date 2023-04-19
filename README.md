@@ -1,7 +1,7 @@
 [Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)
 
 
-# Mobile Config iOS for DNS Ad Block
+# 📱Mobile Config iOS for DNS Ad Block
 
 This repository contains two Mobile Config iOS files that can be used to block most of the ads on iOS devices.
 
