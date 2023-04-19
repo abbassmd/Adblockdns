@@ -1,5 +1,9 @@
 [Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)
 
+<div align="center">
+  <img src="https://github.com/abbassmd/Adblockdns/raw/main/Rim%20Icon.png" alt="Rim Icon">
+</div>
+<br>
 
 # 📱Mobile Config iOS for DNS Ad Block🔒
 
