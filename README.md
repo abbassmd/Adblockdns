@@ -1,11 +1,9 @@
-[Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)
-
-
-<div align="center">
+<div align="center" style="font-size: 24px;">
   <a href="https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig">
     <img src="https://img.shields.io/badge/Rim❣️-Download-brightgreen" alt="Download Rim❣️">
   </a>
 </div>
+
 
 # 📱Mobile Config iOS for DNS Ad Block🔒
 
