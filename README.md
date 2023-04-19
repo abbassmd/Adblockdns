@@ -1,19 +1,19 @@
 [Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)
 
 
-# 📱Mobile Config iOS for DNS Ad Block
+# 📱Mobile Config iOS for DNS Ad Block🔒
 
 This repository contains two Mobile Config iOS files that can be used to block most of the ads on iOS devices.
 
-## What is Mobile Config iOS?
+##❓What is Mobile Config iOS? 📱🔧
 
 Mobile Config iOS is a file format that allows you to configure various settings on iOS devices, such as email accounts, VPNs, Wi-Fi networks, and more. By installing a Mobile Config iOS file, you can quickly configure settings without having to manually enter them.
 
-## What is DNS Ad Block?
+##❓What is DNS Ad Block?🚫📰
 
 DNS Ad Block is a type of ad blocking that works by redirecting requests for ads to a "black hole" instead of serving the ad content. This is accomplished by using a specially configured DNS server that knows how to handle ad requests. DNS Ad Block can be more effective than traditional ad blockers because it blocks ads at the DNS level, before they are even loaded in the browser.
 
-## How to use the Mobile Config iOS files
+## 🔧How to use the Mobile Config iOS files📲💻
 
 The two Mobile Config iOS files provided in this repository are configured to use a DNS server that is specifically designed to block most of the ads on iOS devices. To use these files, follow these steps:
 
@@ -31,7 +31,7 @@ The two Mobile Config iOS files provided in this repository are configured to us
 
 4. Follow the prompts to complete the installation process.
 
-## Filters used in the Mobile Config iOS files
+## 🚫Filters used in the Mobile Config iOS files
 
 The Mobile Config iOS files provided in this repository use the following filters to block ads:
 
@@ -48,14 +48,14 @@ The Mobile Config iOS files provided in this repository use the following filter
 These filters are designed to block most of the ads on iOS devices, and have been carefully selected and optimized for maximum effectiveness.
 
 
-## Contributing
+## 🤝Contributing
 
 If you would like to contribute to this repository, please fork the repository and submit a pull request. Contributions are always welcome!
 
-## License
+## 📝License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/abbassmd/Adblockdns/edit/main/README.md) file for details.
 
-## Contact
+## 📧Contact
 
 If you have any questions or comments about this project, you can contact me at abbassmd@proton.me.
