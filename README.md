@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig">
-    <h2>
+    <h2 style="font-size: 36px;">
       <img src="https://img.shields.io/badge/Rim❣️-Download-brightgreen" alt="Download Rim❣️">
     </h2>
   </a>
