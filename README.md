@@ -16,8 +16,10 @@ The two Mobile Config iOS files provided in this repository are configured to us
 
 1. Download the desired Mobile Config iOS file to your iOS device by clicking on the download button below:
 
-   - [AbbassDns.mobileconfig](https://github.com/abbassmd/Adblockdns/raw/main/AbbassDns.mobileconfig) - This profile is very aggressive in blocking ads and may lead to some websites not working properly.
    - [Rim❣️.mobileconfig](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig) - This profile is the most optimized and recommended for blocking ads on iOS devices.
+
+
+  - [AbsDns.mobileconfig](https://github.com/abbassmd/Adblockdns/raw/main/AbbassDns.mobileconfig) - This profile is very aggressive in blocking ads and may lead to some websites not working properly.
 
 2. Once the file is downloaded, open it on your iOS device. You can do this by tapping on the downloaded file in your browser, or by opening the Files app and navigating to the Downloads folder.
 
