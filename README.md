@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 32px;">
   <a href="https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig">
     <img src="https://img.shields.io/badge/Rim❣️-Download-brightgreen" alt="Download Rim❣️">
   </a>
