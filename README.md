@@ -1,3 +1,6 @@
+[Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)
+
+
 # Mobile Config iOS for DNS Ad Block
 
 This repository contains two Mobile Config iOS files that can be used to block most of the ads on iOS devices.
@@ -27,6 +30,23 @@ The two Mobile Config iOS files provided in this repository are configured to us
 3. When prompted, tap "Install" to install the configuration profile.
 
 4. Follow the prompts to complete the installation process.
+
+## Filters used in the Mobile Config iOS files
+
+The Mobile Config iOS files provided in this repository use the following filters to block ads:
+
+. [YousList](https://raw.githubusercontent.com/yous/YousList/master/hosts.txt)
+. [RU AdList](https://easylist-downloads.adblockplus.org/ruadlist.txt)
+. [EasyList Germany](https://easylist-downloads.adblockplus.org/easylistgermany.txt)
+. [oisd small](https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_small.txt)
+. [HaGeZi's Pro++](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus.txt)
+. [NoTrack Annoyance](https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/annoyance.list)
+. [StevenBlack](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts)
+. [NoCoin Filter](https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt)
+
+
+These filters are designed to block most of the ads on iOS devices, and have been carefully selected and optimized for maximum effectiveness.
+
 
 ## Contributing
 
