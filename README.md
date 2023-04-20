@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 📧Contact
 
-If you have any questions or comments about this project, you can contact me at abbassmd@proton.me.
+If you have any questions or comments about this project, you can contact me at [Contact](mailto:abbassmd@proton.me).
