@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>⚠️ Attention: Rim now manages your life. Good luck.⛔</string>
+		<string>⚠️ Attention: Rim now manages your Iphone. Good luck.⛔</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
