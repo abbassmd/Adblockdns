@@ -10,17 +10,17 @@
 <br>
 
 
-# 📱Mobile Config iOS for DNS Ad Block🔒
+# 📱Configuring DNS Ad Block on iOS Mobile Devices 🔒
 
-This repository contains two Mobile Config iOS files that can be used to block most of the ads on iOS devices.
+This repository provides two Mobile Config iOS files that effectively block most ads on iOS devices.
 
-##❓What is Mobile Config iOS? 📱🔧
+## ❓What is Mobile Config iOS? 📱🔧
 
-Mobile Config iOS is a file format that allows you to configure various settings on iOS devices, such as email accounts, VPNs, Wi-Fi networks, and more. By installing a Mobile Config iOS file, you can quickly configure settings without having to manually enter them.
+Mobile Config iOS is a file format that lets you configure settings on iOS devices, such as email accounts, VPNs, and Wi-Fi networks. By installing a Mobile Config iOS file, you can quickly configure settings without having to manually enter them.
 
-##❓What is DNS Ad Block?🚫📰
+## ❓What is DNS Ad Block?🚫📰
 
-DNS Ad Block is a type of ad blocking that works by redirecting requests for ads to a "black hole" instead of serving the ad content. This is accomplished by using a specially configured DNS server that knows how to handle ad requests. DNS Ad Block can be more effective than traditional ad blockers because it blocks ads at the DNS level, before they are even loaded in the browser.
+DNS Ad Block is a type of ad blocking that redirects requests for ads to a "black hole" instead of serving the ad content. This is done by using a specially configured DNS server that knows how to handle ad requests. DNS Ad Block is more effective than traditional ad blockers because it blocks ads at the DNS level, before they even load in the browser.
 
 ## 🔧How to use the Mobile Config iOS files📲💻
 
