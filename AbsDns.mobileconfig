@@ -12,7 +12,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://sky.rethinkdns.com/1:4BMkAggAAAIAASAAIEA=</string>
+				<string>https://sky.rethinkdns.com/1:4Bs3AwCACmIABgAQIAAAUA=</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Adblockdns</string>
@@ -27,7 +27,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>1:4BMkAggAAAIAASAAIEA==</string>
+	<string>1:4Bs3AwCACmIABgAQIAAAUA==</string>
 	<key>PayloadDisplayName</key>
 	<string>Absdns</string>
 	<key>PayloadIdentifier</key>
