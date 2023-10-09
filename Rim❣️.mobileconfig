@@ -15,7 +15,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://sky.rethinkdns.com/1:YBMkAgoAAAIgAABA</string>
+				<string>https://sky.rethinkdns.com/1:YBMkAAoAAAIgAABA</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Rim❣️</string>
@@ -32,7 +32,7 @@
 	<key>PayloadDescription</key>
 	<string>Rim Mourad ❤️Adblock DNS 🌹
 
-1:YBMkAgoAAAIgAABA</string>
+1:YBMkAAoAAAIgAABA</string>
 	<key>PayloadDisplayName</key>
 	<string>Rim 🌹</string>
 	<key>PayloadIdentifier</key>
