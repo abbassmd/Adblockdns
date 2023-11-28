@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>⚠️ Attention: Rim ❤️ now have complete control over your phone. Prepare for chaos. 😈</string>
+		<string>⚠️Attention: Rim❤️now have complete control over your phone. Prepare for chaos.😈</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -18,13 +18,13 @@
 				<string>https://blitz.ahadns.com/1:2.4.7.8</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Rim v.2🌹</string>
+			<string>Rim_v.2❣️</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f08cc905-1dd3-4b2c-8941-b2817a3bd2b4</string>
+			<string>com.apple.dnsSettings.managed.624ac71b-48c0-4b2d-b867-8a9dec0909d2</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>f08cc905-1dd3-4b2c-8941-b2817a3bd2b4</string>
+			<string>624ac71b-48c0-4b2d-b867-8a9dec0909d2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -32,17 +32,17 @@
 	<key>PayloadDescription</key>
 	<string>block lists: oisd-basic, 1Hosts (Lite), Lightswitch05, StevenBlack</string>
 	<key>PayloadDisplayName</key>
-	<string>Rim v.2❣️</string>
+	<string>Rim v.2🌹</string>
 	<key>PayloadIdentifier</key>
-	<string>0b465465-0ede-42b2e-99f7-a9339ce5a968</string>
+	<string>4fe161e1-246b-4916-bc0b-40cf733s1e8a46</string>
 	<key>PayloadOrganization</key>
-	<string>Always❣️ & forever♾️</string>
+	<string>Always❣️ &amp; forever♾️</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>38B24CAD-7E44-423E-A189-8CE7038E07C5</string>
+	<string>9921D23D-B192-43D6-A005-CA8221B5AD93</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
