@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>⚠️ Attention: Rim now manages your Iphone. Good luck.⛔</string>
+		<string>⚠️ Attention: Rim ❤️ now have complete control over your phone. Prepare for chaos. 😈</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -36,7 +36,7 @@
 	<key>PayloadIdentifier</key>
 	<string>0b465465-0ede-42b2e-99f7-a9339ce5a968</string>
 	<key>PayloadOrganization</key>
-	<string>❣️ Always and forever ♾️</string>
+	<string>Always❣️ & forever♾️</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>
