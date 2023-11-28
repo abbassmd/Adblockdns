@@ -15,28 +15,26 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://sky.rethinkdns.com/1:YBMkAgIAAAIgAABA</string>
+				<string>https://blitz.ahadns.com/1:2.4.7.8</string>
 			</dict>
 			<key>PayloadDisplayName</key>
-			<string>Rim❣️</string>
+			<string>Rim v.2❣️</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.f8666d76-07ef-48e2-8849-aaeb52ab2397</string>
+			<string>com.apple.dnsSettings.managed.f08cc905-1dd3-4b2c-8941-b2817a3bd2b4</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>f8666d76-07ef-48e2-8849-aaeb52ab2397</string>
+			<string>f08cc905-1dd3-4b2c-8941-b2817a3bd2b4</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Rim Mourad ❤️Adblock DNS 🌹
-
-1:YBMkAgIAAAIgAABA</string>
+	<string>block lists: oisd-basic, 1Hosts (Lite), Lightswitch05, StevenBlack</string>
 	<key>PayloadDisplayName</key>
-	<string>Rim 🌹</string>
+	<string>Rim v.2🌹</string>
 	<key>PayloadIdentifier</key>
-	<string>RimMouradc2d10c26-b697-4f81-b158-e8d715032f72</string>
+	<string>0b465465-0ede-42b2e-99f7-a9339ce5a968</string>
 	<key>PayloadOrganization</key>
 	<string>❣️ Always and forever ❣️</string>
 	<key>PayloadScope</key>
@@ -44,7 +42,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>FD43FB75-798E-4B66-8853-654FBC506541</string>
+	<string>38B24CAD-7E44-423E-A189-8CE7038E07C5</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
