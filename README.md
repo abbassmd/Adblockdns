@@ -28,7 +28,7 @@ The two Mobile Config iOS files provided in this repository are configured to us
 ✅ **[Rim❣️](https://github.com/abbassmd/Adblockdns/raw/main/Rim❣️.mobileconfig)** This profile is the most optimized and recommended for blocking ads on iOS devices.🚀
 
 
-✅ **[Rim v.2🌹](https://github.com/abbassmd/Adblockdns/raw/main/Rim v.2🌹 .mobileconfig)** ⚠️Caution: This new version may not be fully optimized; its features could potentially disrupt certain apps or websites. Exercise caution while using this profile.🚫
+✅ **[Rim v.2🌹](https://github.com/abbassmd/Adblockdns/raw/main/Rim0.2🌹.mobileconfig)** ⚠️Caution: This new version may not be fully optimized; its features could potentially disrupt certain apps or websites. Exercise caution while using this profile.🚫
 
 2. Once the file is downloaded, open it on your iOS device. You can do this by tapping on the downloaded file in your browser, or by opening the Files app and navigating to the Downloads folder.
 
