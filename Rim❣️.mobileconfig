@@ -15,7 +15,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://sky.rethinkdns.com/1:YBMkAAoAAAIgAABA</string>
+				<string>https://rethinkdns.com/configure?v=apple#1:YBMkAAoAAAIgAABA</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Rim❣️</string>
