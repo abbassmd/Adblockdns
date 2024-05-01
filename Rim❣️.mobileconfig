@@ -15,7 +15,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://rethinkdns.com/configure?v=apple#1:YBMkAAoAAAIgAABA</string>
+				<string>https://sky.rethinkdns.com/1:YBMEAgoAAAIgQABA</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Rim❣️</string>
@@ -32,11 +32,11 @@
 	<key>PayloadDescription</key>
 	<string>Rim Mourad ❤️Adblock DNS 🌹
 
-1:YBMkAAoAAAIgAABA</string>
+v=apple#1:YBMEAgoAAAIgQABA</string>
 	<key>PayloadDisplayName</key>
 	<string>Rim 🌹</string>
 	<key>PayloadIdentifier</key>
-	<string>RimMouradc2d10c26-b697-4f81-b158-e8d715032f72</string>
+	<string>Rimmourad-c2d10c26-b697-4f81-b158-e8d715032f72</string>
 	<key>PayloadOrganization</key>
 	<string>❣️ Always and forever ❣️</string>
 	<key>PayloadScope</key>
@@ -44,7 +44,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>FD43FB75-798E-4B66-8853-654FBC506541</string>
+	<string>C69D0CC0-6B58-4DEB-B091-264BB0DC0EB9</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
